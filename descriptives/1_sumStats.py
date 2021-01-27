@@ -1,5 +1,5 @@
 """
-    Combines All Cleaned PID CSVs To Single Parquet
+    Runs descriptive analysis for the
     Kickstarter Project
 --------------------------------------------------------------------------------
 change log:
